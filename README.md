@@ -5,4 +5,4 @@ Evil Twin AP + DNS Poisoning
 When victim connects to the Evil AP, victim will be redirected phishing site attacker is hosting.
 
 # How to use:
-`Usage: ./smb_bruteforce.sh <ip_addr> <username/username wordlist> <password wordlist> <fileshare>`
+`Usage: ./evil.sh <Evil AP Name> <specify interface wireless interface> <web server ip addr>`
