@@ -56,7 +56,7 @@ else
 	sleep 5
 	# Monitor Log
 	gnome-terminal -- tail -f /var/www/html/log.txt
-	gnome-terminal -- tail -f /var/www/html/ip.txt
+	
 fi
 
 
